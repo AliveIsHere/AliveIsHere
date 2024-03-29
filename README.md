@@ -2,13 +2,7 @@
 
 <!--
 **AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>hello world</p>
-<h1>im amir</h1>
-<p>my lastname is karimi</p>
-<p>im a developer</p>
-<p>java script</p>
-<p>hello</p>
-<h1>im amir</h1>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
