@@ -2,9 +2,8 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
-<hr>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=dark&hide_border=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=dark&hide_border=true)
 
 <!--
 **AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
