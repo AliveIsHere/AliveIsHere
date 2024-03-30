@@ -1,7 +1,8 @@
-<p style="color: pink;">Its ALIVE :)</p>
+<p>Its ALIVE :)</p>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=dark)
-Its ALIVE :)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=merko)
+
 
 
 <!--
