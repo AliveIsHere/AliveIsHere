@@ -1,9 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=radical)
-### Hi there 👋
+<p>Its ALIVE :)</p>
+<hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=highcontrast&hide_border=true)
 
 <!--
-**AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p>hello world<p>
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AliveIsHere=yousefvafaei&show_icons=true&theme=radical)
+
