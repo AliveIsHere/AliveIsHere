@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=dark&hide_border=true)
 
 
 <!--
