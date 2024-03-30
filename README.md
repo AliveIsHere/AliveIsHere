@@ -1,7 +1,7 @@
 <p>Its ALIVE :)</p>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=cobalt)
 
 
 
