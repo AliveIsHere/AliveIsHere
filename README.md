@@ -1,12 +1,13 @@
-### Hi there 👋
+<p>Its ALIVE :)</p>
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=highcontrast&hide_border=true)
 
 <!--
-**AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>hello world</p>
-<h1>im amir</h1>
-<p>my lastname is karimi</p>
-<p>im a developer</p>
-<p>java script</p>
+AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p>hello world<p>
 -->
+<p>hello world</p>
