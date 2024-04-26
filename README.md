@@ -1,6 +1,7 @@
 <p>Its ALIVE :)</p>
+<p>a junior web developer</p>
 <hr>
-<p>hello world</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=highcontrast&hide_border=true)
@@ -20,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<p>hello world</p>
