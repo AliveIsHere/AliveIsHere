@@ -6,7 +6,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=highcontrast&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=َAliveIsHere&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliveIsHere&theme=dracula)
 <!--
 AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
