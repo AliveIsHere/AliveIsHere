@@ -2,6 +2,9 @@
 <p>a junior web developer</p>
 <hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliveIsHere&show_icons=true&theme=highcontrast)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliveIsHere&theme=highcontrast&hide_border=true)
 
 <!--
 AliveIsHere/AliveIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
